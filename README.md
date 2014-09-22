@@ -16,3 +16,7 @@ Although the program consistently scores very high it still requires some improv
 The square stage is not effectively linked with the endgame so that board clearances are not usual.
 For it be useful the solving part of the program would have to be linked with a camera phone, 
 that used OCR to read a board off a screen.
+
+To run program, run souper.py from the command line.
+
+Python with the itertools package installed is required to run this program.
